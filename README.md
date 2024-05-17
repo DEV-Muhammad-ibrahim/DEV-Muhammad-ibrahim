@@ -2,7 +2,7 @@
 - 👀 I’m interested in Back End Development
 - 🌱 I’m currently learning C#.
 - 💞️ I’m looking to collaborate with senior node developers.
-- 📫 How to reach me through linked In.
+- 📫 How to reach me: through linked In.
 - 💬 Ask me about Software development, Node.js, React, TypeScript, Python, Api Integrations.
 - ⚡ Fun fact: ...I never give up.
 
